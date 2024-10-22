@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Svaziars
+- 👋 Hi, I’m @ZAHRUL KHULUKI
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning WEB DEVELOPER
 
 <!---
 Svaziars/Svaziars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
